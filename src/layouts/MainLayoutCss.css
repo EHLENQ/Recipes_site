@@ -1,0 +1,15 @@
+.background-dark{
+    background-color: black;
+    color: white;
+    transition: 0.4s;
+    height: 100vh;
+}
+
+.background-light{
+    background-color: white;
+    color: black;
+    transition: 0.4s;
+    height: 100vh;
+
+
+}
